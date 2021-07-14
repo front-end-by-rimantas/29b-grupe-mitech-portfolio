@@ -9,9 +9,9 @@ _29a group website project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://front-end-by-rimantas.github.io/29b-grupe-portfolio/
+Site published at: https://front-end-by-rimantas.github.io/29b-grupe-mitech-portfolio/
 
-Design: https://front-end-by-rimantas.github.io/29b-grupe-mitech-portfolio/
+Design: https://demo.hasthemes.com/mitech-preview/index-infotechno.html
 
 ## Project features
 
