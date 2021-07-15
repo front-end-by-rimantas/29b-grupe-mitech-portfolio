@@ -3,15 +3,15 @@
 ![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 
-# Daniels portfolio
+# Mitech portfolio
 
-_29b group website project_
+_29a group website project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://front-end-by-rimantas.github.io/29b-grupe-portfolio/
+Site published at: https://front-end-by-rimantas.github.io/29b-grupe-mitech-portfolio/
 
-Design: http://www.innovationplans.com/idesign/daniels/particles.html
+Design: https://demo.hasthemes.com/mitech-preview/index-infotechno.html
 
 ## Project features
 
@@ -27,4 +27,12 @@ Design: http://www.innovationplans.com/idesign/daniels/particles.html
 
 ## Authors
 
-Rimantas: [Github](https://github.com/belauzas)
+Andrius: [Github](https://github.com/AndriusS0316)
+
+Virdžinija: [Github](https://github.com/VirdzinijaG)
+
+Vida: [Github](https://github.com/Vida011)
+
+Arūnas: [Github](https://github.com/Dovaras)
+
+Rugilė: [Github](https://github.com/rugile33)
