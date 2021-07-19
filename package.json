@@ -1,5 +1,5 @@
 {
-  "name": "29b-grupe-portfolio",
+  "name": "29b-grupe-mitech-portfolio",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Rimantas Belovas",
+  "author": "Andrius, Virdžinija, Vida, Arūnas, Rugilė", 
   "license": "MIT",
   "devDependencies": {
     "live-server": "^1.2.1"
