@@ -10,10 +10,46 @@
 
 /* CUSTOM HOME PAGE STYLE BELOW THIS COMMENT LINE */
 
+.bg-light {
+    background-color: var(--light-color);
+}
+.bg-grey {
+    background-color: var(--grey-color);
+}
+.bg-brown {
+    background-color: var(--brown-color);
+}
+.bg-telephone {
+    background-color: var(--telephone-color);
+}
+.our {
+    color: #ABABAB;
+    font-size: 14px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    text-align: center;
+}
+.our-left {
+    color: #ABABAB;
+    font-size: 14px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    text-align: left;
+}
+
 /* Header start here */
+header.container {
+    padding-top: 0;
+    padding-bottom: 30px;
+
+}
 /* Header end here */
  
 /* Img section start here */
+.IMG {
+    min-height: 100vh;
+    background-color: #2A4480;
+}
 /* Img section end here */
  
 /* Logo line start here */
