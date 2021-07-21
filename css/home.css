@@ -8,6 +8,7 @@
 
 /* components */
 @import './components/button.css';
+@import './components/our-services.css';
 
 /* CUSTOM HOME PAGE STYLE BELOW THIS COMMENT LINE */
 
@@ -57,6 +58,7 @@ header.container {
 /* Logo line end here */
  
 /* Our services start here */
+/*     our-service.cc     */
 /* Our services end here */
  
 /* Our company start here */
