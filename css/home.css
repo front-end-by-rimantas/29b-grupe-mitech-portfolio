@@ -48,8 +48,41 @@ header.container {
 /* Img section start here */
 .IMG {
     min-height: 100vh;
-    background-color: #2A4480;
+    /* background-color: #2A4480; */
 }
+.img {
+    background-color: #F4EFE9;
+    margin-top: 0;
+    height: auto;
+    margin-bottom: 0;
+}
+.background-img {
+    margin-top: 0;
+    background-image: url(../img/background.png);
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+.design {
+    color: #086AD8;
+    text-align: left;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.facilitate {
+    font-family: "calibri";
+    text-align: left;
+    font-size: 57px;
+    margin-bottom: 15px;
+}
+.highly {
+    color: #696969;
+    text-align: left;
+    font-size: 17px;
+    margin-bottom: 37px;
+}
+
 /* Img section end here */
  
 /* Logo line start here */
