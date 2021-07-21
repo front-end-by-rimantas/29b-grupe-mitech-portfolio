@@ -95,6 +95,32 @@ header.container {
 /* Our services end here */
  
 /* Our company start here */
+.our-company-background {
+    margin-top: 0;
+    background-image: url(../img/mitech-home-infotechno-section-company-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.years {
+    color: #086AD8;
+    text-align: left;
+    font-size: 50px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+.thriving {
+    font-family: "calibri";
+    text-align: left;
+    font-size: 50px;
+    margin-bottom: 5px;
+    margin-top: 20px;
+}
+.Mitech {
+    color: #696969;
+    text-align: left;
+    font-size: 17px;
+    margin-bottom: 37px;
+}
 /* Our company end here */
  
 /* Hire us why not start here */
