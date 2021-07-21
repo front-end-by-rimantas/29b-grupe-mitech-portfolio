@@ -9,6 +9,7 @@
 /* components */
 @import './components/button.css';
 @import './components/our-services.css';
+@import './components/hire-us.css';
 
 /* CUSTOM HOME PAGE STYLE BELOW THIS COMMENT LINE */
 
@@ -91,7 +92,7 @@ header.container {
 /* Logo line end here */
  
 /* Our services start here */
-/*     our-service.cc     */
+/*     our-service.css     */
 /* Our services end here */
  
 /* Our company start here */
