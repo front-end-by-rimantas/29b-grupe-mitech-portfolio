@@ -10,6 +10,7 @@
 @import './components/button.css';
 @import './components/our-services.css';
 @import './components/hire-us.css';
+@import './components/number-line.css';
 
 /* CUSTOM HOME PAGE STYLE BELOW THIS COMMENT LINE */
 
@@ -151,6 +152,7 @@ header.container {
 /* Hire us why not end here */
  
 /* Number line start here */
+/*     number-line.css   */
 /* Number line end here */
  
 /* Video section start here */
