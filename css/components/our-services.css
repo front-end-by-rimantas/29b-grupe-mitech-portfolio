@@ -1,0 +1,72 @@
+.paragraph {
+    margin-top: 30px;
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+}
+.blue-text {
+    color: #086AD8;
+}
+.service-card {
+    display: inline-block;
+    background-color: white;
+    width: 450px;
+    height: 350px;
+    margin-top: 80px;
+    text-align: center;
+    border-radius: 6px;
+    box-shadow: 3px 5px 8px lightgray;
+}
+.service-card-img {
+  margin-top: 50px;
+  margin-bottom: 25px;
+}
+.service-card-h4 {
+    font-size: 24px;
+    padding-bottom: 15px;
+    color: #333333;
+    text-align: center;
+} 
+.service-card-text {
+    font-size: 15px;
+    text-align: center;
+    color: #696969;
+    line-height: 25px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.card-arrow {
+    margin-top: 25px;
+    color: white;
+    background-color:#d2a98e;
+    width: 56px;
+    height: 56px;
+    line-height: 56px;
+    text-align: center;
+    border-radius: 50%;
+    font-size: 20px;
+}
+.card-arrow:hover {
+   background-color: #007bff;
+   animation: pulse 1s infinite;
+   animation-timing-function: linear; 
+}
+@keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.1)};
+    100% { transform: scale(1); }
+  }
+ .service-card-last-text {
+     margin-top: 80px;
+     text-align: center;
+     font-size: 18px;
+     color: #333333;
+ }
+ .link {
+     color:#086AD8;
+     text-decoration: none;
+     border-bottom: 1px solid #ccc;
+ }
+ .link:hover {
+     border-bottom:1px solid #086AD8;
+ }

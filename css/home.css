@@ -4,31 +4,155 @@
 @import './base/layout.css';
 
 /* 3rd-party */
+@import './3rd-party/font-awesome.min.css';
 
 /* components */
 @import './components/button.css';
+@import './components/our-services.css';
+@import './components/hire-us.css';
+@import './components/number-line.css';
 
 /* CUSTOM HOME PAGE STYLE BELOW THIS COMMENT LINE */
 
+.bg-light {
+    background-color: var(--light-color);
+}
+.bg-grey {
+    background-color: var(--grey-color);
+}
+.bg-brown {
+    background-color: var(--brown-color);
+}
+.bg-telephone {
+    background-color: var(--telephone-color);
+}
+.our {
+    color: #ABABAB;
+    font-size: 14px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    text-align: center;
+}
+.our-left {
+    color: #ABABAB;
+    font-size: 14px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    text-align: left;
+}
+
 /* Header start here */
+header.container {
+    padding-top: 0;
+    padding-bottom: 30px;
+
+}
 /* Header end here */
  
 /* Img section start here */
+.IMG {
+    height: 60vh;
+    /* background-color: #2A4480; */
+}
+.img {
+    background-color: #F4EFE9;
+    margin-top: 0;
+    height: auto;
+    margin-bottom: 0;
+}
+.background-img {
+    margin-top: 0;
+    background-image: url(../img/background.png);
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+.design {
+    color: #086AD8;
+    text-align: left;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.facilitate {
+    font-family: "calibri";
+    text-align: left;
+    font-size: 57px;
+    margin-bottom: 15px;
+}
+.highly {
+    color: #696969;
+    text-align: left;
+    font-size: 17px;
+    margin-bottom: 37px;
+}
+
 /* Img section end here */
  
 /* Logo line start here */
 /* Logo line end here */
  
 /* Our services start here */
+/*     our-service.css     */
 /* Our services end here */
  
 /* Our company start here */
+.our-company-background {
+    margin-top: 0;
+    background-image: url(../img/mitech-home-infotechno-section-company-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    margin-left: 0;
+}
+.years {
+    color: #086AD8;
+    text-align: left;
+    font-size: 50px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+.thriving {
+    font-family: "calibri";
+    text-align: left;
+    font-size: 50px;
+    margin-bottom: 5px;
+    margin-top: 20px;
+}
+.Mitech {
+    color: #696969;
+    text-align: left;
+    font-size: 17px;
+    margin-bottom: 37px;
+}
+.question-nr {
+    font-weight: bold;
+    color: #ABABAB;
+    font-size: 30px;
+    padding-left: 25px;
+}
+.question-nr:hover {
+    color: #086AD8;
+    cursor: pointer;
+}
+.questions {
+    padding-left: 65px;
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    transition: all 0.6s;
+}
+.questions:hover {
+    color: #086AD8;
+    cursor: pointer;
+}
 /* Our company end here */
  
 /* Hire us why not start here */
+/*       hire-us.css         */
 /* Hire us why not end here */
  
 /* Number line start here */
+/*     number-line.css   */
 /* Number line end here */
  
 /* Video section start here */
